@@ -1,0 +1,19 @@
+{
+  "name": "rls-bot",
+  "version": "1.0.0",
+  "description": "This is a bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "keywords": [
+    "#html",
+    "#bot",
+    "#rls"
+  ],
+  "author": "HERO",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
